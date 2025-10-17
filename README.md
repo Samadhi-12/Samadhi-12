@@ -6,16 +6,16 @@
 
 Hi! I'm **Samadhi Gunasena**, a passionate Android developer who loves crafting clean and user-friendly mobile applications. I'm continuously learning and exploring new technologies to enhance my development skills.
 
-* 🔭 I’m currently working on: Kotlin-based Android Projects
-* 🌱 I’m currently learning: Advanced Android development and Flutter
-* 💬 Ask me about: Android, Kotlin, UI/UX for mobile apps
+* 🔭 I’m currently working on: Data Science Projects
+* 🌱 I’m currently learning: Python , AI/ML , Data Science
+* 💬 Ask me about: Python, Kotlin , UI/UX
 * 📫 How to reach me: [Gmail](mailto:sama.gunasena12@gmail.com)
 
 ## 🌟 Skills
 
 ### 💻 Languages:
 
-* Kotlin, Java, Flutter
+* Python , Kotlin , Java 
 
 ### 📈 Tools & Technologies:
 
