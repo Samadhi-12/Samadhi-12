@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samadhi Gunasena!
+# Hi there 👋, I'm Samadhi Gunasena!![Profile Views](https://komarev.com/ghpvc/?username=Samadhi-12&color=blue)
 
 🚀 Android Developer | 🌱 Open Source Enthusiast | 💡 Kotlin Lover
 
