@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samadhi Gunasena!![Profile Views](https://komarev.com/ghpvc/?username=Samadhi-12&color=blue)
+# Hi there 👋, I'm Samadhi Gunasena! ![Profile Views](https://komarev.com/ghpvc/?username=Samadhi-12&color=blue)
 
 🚀 Data Scientist | 🌱 Open Source Enthusiast | 💡 UI/UX Lover
 
